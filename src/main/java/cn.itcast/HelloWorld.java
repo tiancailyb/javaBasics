@@ -6,6 +6,9 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+        HelloWorld helloWorld = new HelloWorld();
+        helloWorld.sum(1, 2);
+        plus(2, 3);
     }
 
     /**
@@ -14,6 +17,10 @@ public class HelloWorld {
      * @param b
      */
     public void sum(int a, int b) {
+        System.out.println(a + b);
+    }
+
+    public static void plus(int a, int b) {
         System.out.println(a + b);
     }
 }
