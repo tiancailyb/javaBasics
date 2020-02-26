@@ -1,20 +1,15 @@
-package cn.itcast.day05.demo01;
+package cn.itcast.day05.demo02;
 
 /**
  * @author lyb
  * @date 2020/2/21
  */
-public class Demo04ArrayUse {
+public class Demo03ArrayIndex {
     public static void main(String[] args) {
         int[] array = {1, 2, 3};
-        System.out.println(array);
         System.out.println(array[0]);
         System.out.println(array[1]);
         System.out.println(array[2]);
-
-        System.out.println("----------------------");
-        int a = array[2];
-        int[] b = new int[3];
-        b[1] = 1;
+        System.out.println(array[3]);
     }
 }
