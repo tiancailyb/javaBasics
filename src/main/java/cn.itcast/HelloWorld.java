@@ -2,7 +2,16 @@
  * @author lyb
  * @date 2020/2/20
  */
+
 public class HelloWorld {
+    private static  int a = 10;
+    private  static int b = 10;
+
+    static {
+        int a = 10;
+        int b = 20;
+    }
+
 
     public static void main(String[] args) {
         System.out.println("Hello, World!");
