@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" filepath="$PROJECT_DIR$/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Test/15_Test.iml" filepath="$PROJECT_DIR$/15_Test/15_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_Reflect/16_Reflect.iml" filepath="$PROJECT_DIR$/16_Reflect/16_Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_Annotation/17_Annotation.iml" filepath="$PROJECT_DIR$/17_Annotation/17_Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Logger/18_Logger.iml" filepath="$PROJECT_DIR$/18_Logger/18_Logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-IO/demo-IO.iml" filepath="$PROJECT_DIR$/demo-IO/demo-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-String/demo-String.iml" filepath="$PROJECT_DIR$/demo-String/demo-String.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-Thread/demo-Thread.iml" filepath="$PROJECT_DIR$/demo-Thread/demo-Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-Throwable/demo-Throwable.iml" filepath="$PROJECT_DIR$/demo-Throwable/demo-Throwable.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-collection/demo-collection.iml" filepath="$PROJECT_DIR$/demo-collection/demo-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-extends/demo-extends.iml" filepath="$PROJECT_DIR$/demo-extends/demo-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-lambda-file/demo-lambda-file.iml" filepath="$PROJECT_DIR$/demo-lambda-file/demo-lambda-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-map/demo-map.iml" filepath="$PROJECT_DIR$/demo-map/demo-map.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testCheckOut.iml" filepath="$PROJECT_DIR$/.idea/testCheckOut.iml" />
     </modules>

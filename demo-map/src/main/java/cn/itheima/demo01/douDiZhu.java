@@ -12,8 +12,6 @@ import java.util.List;
 public class douDiZhu {
     public static void main(String[] args) {
 
-        Window
-
         //1. 准备拍
         List<Integer> indexList = new ArrayList<>();
         HashMap<Integer, String> poker = new HashMap<>();
